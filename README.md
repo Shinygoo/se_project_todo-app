@@ -1,17 +1,34 @@
-# Simple Todo App
+# TaskTrek - A simple ToDo Application
 
-Give a brief description of the project here. Feel free to give it a different name.
+Manage your tasks with simplicity and style.
+
+## Description
+
+TaskTrek is a clean, intuitive to-do application that helps you organize tasks effortlessly. With its minimalist design and straighforward fucntionality, you can focus on what matters most-gettings things done. Whether you're managing daily chores, work projects, or personal goals, TaskTrek keeps you on track,
 
 ## Functionality
 
-Give a more detailed explanation of the project and its functionality.
+- **Add tasks** with a single input
+- **Mark tasks as complete** with visual feedback
+- **Delete tasks** individually
+- **Due date tracking** with calendar integration
 
-## Technology
+## Technology Stack
 
-Give a description of the technologies and techniques used. Pictures, GIFs, or screenshots that detail the project features are recommended.
+**Frontend**
+
+- HTML - Semantic page structure
+- CSS - Flexbox layout with custom properties
+- JavaScript - Core application logic
+
+**Development Tools**
+
+- Visual Studio Code - Primary code editor
+- Git and GitHub - Version control and deployment
+- Chrome DevTools - Debugging and optimization
 
 ## Deployment
 
 This project is deployed on GitHub Pages:
 
-- ADD LINK HERE
+https://shinygoo.github.io/se_project_todo-app/
